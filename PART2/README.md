@@ -78,4 +78,4 @@ We fine-tuned the number of epochs by evaluating the model at different values (
 
 ## **Conclusion**
 
-This project highlights the importance of systematic experimentation with architectures, hyperparameters, and training strategies. By selecting the most significant features and optimizing hyperparameters like batch size and learning rate, the model achieved a test accuracy of **71.88%**. While this is a significant step forward, further improvements in feature engineering, optimization techniques, and alternative modeling approaches are necessary to achieve even better results. 🚀
+This project highlights the importance of systematic experimentation with architectures, hyperparameters, and training strategies. By selecting the most significant features and optimizing hyperparameters like batch size and learning rate, the model achieved a test accuracy of **around 68%**. While this is a significant step forward, further improvements in feature engineering, optimization techniques, and alternative modeling approaches are necessary to achieve even better results. 🚀
