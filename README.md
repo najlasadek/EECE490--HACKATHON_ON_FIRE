@@ -94,7 +94,7 @@ The goal was to classify individuals into different smoking intensity levels bas
 
 | **Metric**              | **Random Forest** | **Neural Networks** |
 |--------------------------|-------------------|---------------------|
-| **Best Accuracy**        | 62.79%            | 71.88%              |
+| **Best Accuracy**        | 62.79%            | 68%                 |
 | **Feature Engineering**  | Crucial           | Crucial             |
 | **Flexibility**          | Limited           | High                |
 | **Overfitting Control**  | Strong            | Requires tuning     |
