@@ -108,6 +108,6 @@ The goal was to classify individuals into different smoking intensity levels bas
 ## **Conclusion**
 
 This project demonstrates the power of systematic experimentation in machine learning and deep learning. By leveraging both Random Forest and Neural Networks:
-1. **Neural Networks** achieved the best results with 71.88% accuracy, fine-tuned for 23 epochs.
+1. **Neural Networks** achieved the best results with 68% accuracy, fine-tuned for 23 epochs.
 2. **Random Forest** provided insights into feature importance but struggled to achieve competitive accuracy.
 
